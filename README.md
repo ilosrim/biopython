@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://biopython.org/">
-    <img src="./imgs/biopython_logo_white.png" alt="Biopython logo" align="center">
+    <img src="./assets/imgs/biopython_logo_white.png" alt="Biopython logo" align="center">
   </a>
 </p>
 
